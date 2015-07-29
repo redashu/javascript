@@ -1,0 +1,12 @@
+<script>
+
+var a=80;
+var b=" redhat\n and \t";
+var c="redhat liuxfsdjfkjl "+"length of this string is give".length
+document.write(a + b);
+document.write(c);
+var d = 10;
+d = d + 3;
+document.write(d);
+
+</script>
